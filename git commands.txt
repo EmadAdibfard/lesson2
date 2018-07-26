@@ -1,0 +1,6 @@
+git add .
+
+git commmit -m "asdasdasdasd"
+
+// ersal commit ha be github
+git push -u origin master
